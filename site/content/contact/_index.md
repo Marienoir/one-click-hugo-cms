@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-logo: "/img/logo.svg"
+logo: "/img/logo1.png"
 contact_entries:
   - heading: Location
     text: "31, Oluyole Estate, Ibadan, Oyo State."
