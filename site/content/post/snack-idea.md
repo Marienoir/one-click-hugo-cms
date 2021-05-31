@@ -4,7 +4,7 @@ date: 2021-05-30T11:20:40.000Z
 description: >-
   In a world of “Netflix and Chill,” munchies seem an ideal companion to binge-watch all our favorite series/ movies. Isn't it? 
 
- Snacking is not bad, on the contrary, it’s a great way to stay energized throughout the day as long as we are incorporating healthy options and snacking on the right things.
+  Snacking is not bad, on the contrary, it’s a great way to stay energized throughout the day as long as we are incorporating healthy options and snacking on the right things.
 image: /img/blog-healthy-snacks.jpg
 ---
 
