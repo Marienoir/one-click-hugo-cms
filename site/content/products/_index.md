@@ -9,7 +9,7 @@ intro:
   blurbs:
     - image: /img/illustrations-coffee-gear.svg
       text: >
-        However, at Kaldi Mart, we have been able to solve this problem by
+        However, at Fresh-Mart, we have been able to solve this problem by
         selling fresh products during harvest and shortly thereafter
         processing the rest to meet demand during the rest of the year
         
@@ -49,10 +49,10 @@ main:
 testimonials:
   - author: Enoch Fabeyi
     quote: >-
-      The first time I bought Fruits from Kaldi Mart, I couldn’t even believe it was so fresh and spotlesss.
+      The first time I bought Fruits from Fresh-Mart, I couldn’t even believe it was so fresh and spotlesss.
   - author: Chinenye Okechukwu
     quote: >-
-      Kaldi Mart is the place to go if you want quality vegetables. My family has been living an healthy lifestyle since I discovered Kaldi Mart
+      Fresh-Mart is the place to go if you want quality vegetables. My family has been living an healthy lifestyle since I discovered Fresh-Mart
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
