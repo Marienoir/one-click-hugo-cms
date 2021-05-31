@@ -1,102 +1,88 @@
 ---
-title: Our Coffee
+title: Fruits and Vegetables
 type: products
-image: /img/products-jumbotron.jpg
+image: /img/download (3).jpg
 heading: What we offer
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  For many decades, nutritionists and other health professionals have tried to get consumers to consume more fresh produce.
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image: /img/svg1.svg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
+        However, at Fresh Mart, we have been able to solve this problem by
+        selling fresh products during harvest and shortly thereafter
+        processing the rest to meet demand during the rest of the year
+        
+    - image: /img/svg2.svg
+      text: >
+        As technology improved and consumer incomes increased, it became possible to provide fresh produce year-round. Check our post or contact us directly for current
         availability.
-    - image: /img/illustrations-coffee-gear.svg
+    - image: /img/svg3.svg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/illustrations-tutorials.svg
+        We hold our products to the highest standards from the trees to the processing. That’s why we’re meticulous and transparent about each step of the fruits and vegetable
+        journey.
+        You can schedule a custom personal consultation with our farmers
+        to learn anything you want to know about our planting processes.
+        Email us for more details.
+    - image: /img/svg4.svg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/illustrations-meeting-space.svg
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Consumers often shy away from purchasing fresh fruits and vegetables because they don't know how to prepare and cook them. Vegetable and fruit marketing professionals working for produce suppliers, as well as retailers, can take the initiative in educating consumers on different ways to prepare their produce and incorporate vegetables and fruits into their daily and weekly meal plans.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    For many decades, nutritionists and other health professionals have tried to get consumers to consume more fresh produce. Fruits and vegetables are produced seasonally, but the market requires products throughout the year. 
 main:
-  heading: Great coffee with no compromises
+  heading: Quality Is the Key 
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Price and quality are synonymous in fruit and vegetable production. Unfortunately, it is not always easy to know what is meant by "high quality" and quality judgment often varies from year to year.
+    
+     We personally visit each farm to make sure the conditions are
+    optimal for the fruits and vegetables, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/download (1).jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/download (4).jpg
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Enoch Fabeyi
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      The first time I bought Fruits from Fresh Mart, I couldn’t even believe it was so fresh and spotlesss.
+  - author: Chinenye Okechukwu
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+      Fresh Mart is the place to go if you want quality vegetables. My family has been living an healthy lifestyle since i discovered Fresh Mart
+full_image: /img/download (3).jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
+    We make it easy to make fruit and vegetables a part of your lifetyle. Choose one of our
+    monthly subscription plans to receive great offers at your doorstep each
     month. Contact us about more details and payment info.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Perfect for the individuals who prefer vegetables to fruits.
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
+        - 20 kg of vegetables of your choice per month
+        - 10kg  of any fruits of your choice
+        - Two cups of processed organic fruit smoothie
       plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+      price: '10,000'
+    - description: 'Perfect for the individuals who prefer fruits to vegetables'
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
+        - 20 kg of fruits of your choice per month
+        - 10kg  of any vegetables of your choice
+        - Five cups of processed organic fruit smoothie
       plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+      price: '15,000'
+    - description: With our custom plan, you can try out equal portion of fruits and vegetables
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
+        - 50 kg of fruits of your choice per month
+        - 50 kg of vegetables of your choice per month
+        - 10 cups of processed organic fruit smoothie
+        - A scheduled tour of our farm 
       plan: Custom
-      price: '?'
+      price: '50,000'
 ---
 
 
