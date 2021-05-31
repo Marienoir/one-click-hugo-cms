@@ -1,20 +1,24 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: "Go green, Eat green and Stay fresh"
+subtitle: Your last stop for all things delicious, healthy and fresh
+image: /img/firstpic.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Why Stop by?
+    text: "Fresh Mart is the store for everyone who believes in healthy eating and healthy living. At Fresh Mart, we carefully source our wide range of farm-fresh produce from our farms, from select growers and markets daily"
 intro:
     heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    text: "Fresh Mart is your all-time store for all things vegetables and fruits. We know the beauty of good eating is when there is a variety. For this reason, we offer high quality, nutritional, and flavourful vegetable and fruits for consumption in and around Ibadan city"
+
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+    - image: img/varieties.svg
+      text: "We are committed to the improvement of food taste and nutritional quality. We’re also proud to offer you varieties as you shop. We are here to create a Farm-to-table experience for all things fruits and vegetables."
+    - image: /img/truck.svg
+      text: "We offer convenience as you shop for your most desired veggies and fruits. We offer delivery services as we give you what you want. You make the order. We deliver. You desire it, search it- we have it. 
+We are your shop for all things veggies and fruits."
+
 values:
     heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    text: Eating right is an important part of your life. We are dedicated to the highest quality standards, providing people nutritious, farm-fresh products that taste delicious and exceed expectations. Combining responsible farming practices, comprehensive programs for food safety, pledged transparency, and state-of-the-art production, we give people the power to experience healthy living like never before.
+
 ---
 
