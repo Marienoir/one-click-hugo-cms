@@ -1,27 +1,40 @@
 ---
-title: "Making sense of the SCAA’s new Flavor Wheel"
-date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+title: "No Till Garden: Build Healthy Soil + Get Better Results"
+date: 2020-12-02T15:04:10.000Z
+description: I get the temptation to till. There’s something in all of us gardeners that leaps with joy when we see a freshly turned bed. That rich, dark, blank canvas beckons us to come on over and work our vegetable magic.
 image: /img/blog-flavor_wheel.jpg
 ---
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+We imagine ourselves gently planting a seedling in the fluffy soil with no straining or digging necessary.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+But, garden fantasies aside, tilling the garden every year is a terrible idea in practice. Not only are you destroying the soil structure and bringing weed seeds up to the surface – you’re also creating more work for yourself.
 
-## What the updates mean to you
+I’m going to save you from this horrible fate by sharing why you should establish a no till garden and exactly how to do it.
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+Truth: I’ve gardened for 20 years and have never tilled my garden. And it’s one of the most amazing and productive gardens I’ve ever seen.
 
-- producers
-- roasters
-- importers/exporters
-- retailers
-- manufacturers
-- baristas
+We get a lot of spring rains here where I live in Wisconsin, so often right after someone would till their garden we’d get a huge rain storm which would result in their soil becoming compacted and eroded and often their seeds were washed away. The above photo was from after a rainstorm.
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+It was painful to watch and reinforced my decision to stick to a no-till garden.
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+There are many important reasons not to till your garden. Here are the top three you should keep in mind as a home gardener.
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+## You’re destroying the soil structure.
+
+Here’s an excerpt from the USDA’s Natural Resource Conservation Service website:
+
+…”tillage destroys a soil’s physical properties and therefore the soil’s ability to function properly.  Tillage destroys and/or depletes the soil’s aggregate stability, structure, pore space, water holding capacity, infiltration, permeability, gaseous exchange and nutrient storage ability.”
+
+These are all incredibly important factors that influence the health and productivity of the plants growing in your garden. If you don’t have healthy soil it’s impossible to grow plants that are as big and productive as they should be.
+
+## You’re bringing weed seeds up to the surface.
+Personally, I hate weeding and think it’s a completely avoidable waste of time. I do very little over the season in my own garden.
+
+The act of tilling brings many weed seeds up to the surface of the soil – just where they like it! The sun and warmth at the top encourage them to germinate and start growing.
+
+If you left them where they were, in the cool and dark depths of the soil layers, they’d be much less likely to germinate and start outcompeting your vegetable seeds and seedlings. 
+
+## You’re making more work for yourself.
+Not only are you potentially exposing more weed seeds, resulting in many more hours spent weeding, you’re also creating more work in other ways.
+
+In spring when I’m ready to start planting in my no-till garden I simply walk outside, grab my seedlings, dig a small  hole in my garden bed, sprinkle in some organic fertilizer, pour in some water, and plant the seedling. In less than a minute I’m done.
